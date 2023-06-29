@@ -2,6 +2,6 @@ source "https://rubygems.org"
 
 gemspec
 
-gem "rails", "~> 4.1.8"
-gem "rspec-rails"
+gem "rails", "~> 6.1.7", ">= 6.1.7.4"
+gem "rspec-rails", ">= 3.5.0"
 gem "sqlite3"
